@@ -1,0 +1,15 @@
+id,nama_pelanggan,kota,produk,kategori,harga,jumlah,tanggal_pembelian,revenue,bulan,tahun,hari
+1,Andi,Jakarta,Laptop,Elektronik,15000000.0,1,2024-01-05,15000000.0,January,2024,Friday
+2,Budi ,Bandung,Mouse,Elektronik,150000.0,2,2024-01-05,300000.0,January,2024,Friday
+3,Siti,Jakarta,Keyboard,Elektronik,300000.0,1,2024-01-07,300000.0,January,2024,Sunday
+4,Rina,Surabaya,Meja,Furniture,1200000.0,1,2024-01-07,1200000.0,January,2024,Sunday
+5,Dedi,Bandung,Kursi,Furniture,700000.0,2,2024-01-08,1400000.0,January,2024,Monday
+6,Andi,Jakarta,Laptop,Elektronik,15000000.0,1,2024-01-05,15000000.0,January,2024,Friday
+7,Lina,Jakarta,Monitor,Elektronik,4682142.857142857,1,2024-01-09,4682142.857142857,January,2024,Tuesday
+9,Tono,Bandung,Keyboard,Elektronik,300000.0,2,2024-01-10,600000.0,January,2024,Wednesday
+10,Sari,Jakarta,Laptop,Elektronik,14000000.0,1,2024-01-11,14000000.0,January,2024,Thursday
+11,Budi,Bandung,Mouse,Elektronik,150000.0,2,2024-01-05,300000.0,January,2024,Friday
+12,Dewi,Jakarta,Meja,Furniture,1200000.0,1,2024-01-12,1200000.0,January,2024,Friday
+13,Asep,Bandung,Kursi,Furniture,700000.0,1,2024-01-13,700000.0,January,2024,Saturday
+14,Rina,Surabaya,Kursi,Furniture,700000.0,1,2024-01-13,700000.0,January,2024,Saturday
+15,Fajar,Jakarta,Laptop,Elektronik,16000000.0,1,2024-01-14,16000000.0,January,2024,Sunday
